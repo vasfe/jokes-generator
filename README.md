@@ -2,7 +2,7 @@
 
 React App that exploits [JokeAPI](https://sv443.net/jokeapi/v2/)
 
-See on GH Pages [GH Pages](https://vasfe.github.io/joke-generator/)
+See on GH Pages [GH Pages](https://vasfe.github.io/jokes-generator/)
 
 ## Built With
 
